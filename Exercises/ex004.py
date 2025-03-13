@@ -1,7 +1,7 @@
 # Your Student ID:230543011
 # Your Name and Surname:Yağmur Çelikkaya
 import math
-radius = input("Please enter the rradius of the circle: ")
+radius = input("Please enter the radius of the circle: ")
 r = (float)(radius)
 area = (math.pi) * r * r 
 print("Input the radius of the circle:", radius)
